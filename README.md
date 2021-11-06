@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React router template:
+
+> documentation: https://reactrouter.com/docs/en/v6/upgrading/v5 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
